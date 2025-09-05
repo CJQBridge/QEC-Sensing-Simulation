@@ -14,5 +14,5 @@ Located in the `Analytical Results` folder:
 ### Numerical Simulations
 Located in the `Numerical Simulations` folder:
 - **`average_trajectory.py`**: Simulates the QEC process using the Monte Carlo quantum trajectory method.
-- **'evolve_with_T2_noise.py'**: Solves the master equation for a simple two-level system with T2 noise.
-- **'single_qec_round_simulation.py'**: A master equation simulation including the full QEC cycle.
+- **`evolve_with_T2_noise.py`**: Solves the master equation for a simple two-level system with T2 noise.
+- **`single_qec_round_simulation.py`**: A master equation simulation including the full QEC cycle.
