@@ -11,6 +11,7 @@ Located in the `Analytical Results` folder:
 - **`analytical_T2.py`**: This script analyzes how the discrete QEC time step `dt` affects the fitted T2 value.
   ```bash
   python "Analytical Results/analytical_T2.py"```
+- **`imperfect_QEC.py`**: This script shows how errors that are not perpendicular to the code space will influence the results and calculates the threshold for QEC running.
 ### Numerical Simulations
 Located in the `Numerical Simulations` folder:
 - **`average_trajectory.py`**: Simulates the QEC process using the Monte Carlo quantum trajectory method.
