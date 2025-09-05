@@ -1,7 +1,7 @@
 # QEC-Sensing-Simulation
 ## Installation
 To run these simulations, you need to install the required Python packages:
-```bash
+  ```bash
   pip install -r requirements.txt
 ## How to Use
 
