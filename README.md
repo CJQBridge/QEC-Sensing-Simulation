@@ -1,8 +1,6 @@
 # QEC-Sensing-Simulation
 ## Installation
-To run these simulations, you need to install the required Python packages:
-  ```bash
-  pip install -r requirements.txt```
+To run these simulations, you need to install the required Python packages
 ## How to Use
 
 This repository contains both analytical models and numerical simulations.
